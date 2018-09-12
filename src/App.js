@@ -7,7 +7,7 @@ import Header from "./header/Header";
 
 
 const App = () => {
-  console.log('API key', process.env.REACT_APP_TMDB_API_KEY)
+  console.log('API key', 'f1ce7cc87ef47cb9268f4c68547778cb')
   return (
     <div>
           <Header>Sweet Pumpkins!</Header>

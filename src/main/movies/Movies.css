@@ -1,0 +1,16 @@
+.movies {
+    flex-basis: 80%;
+    display: flex;
+    flex-wrap: wrap;
+  
+    padding: 20px 0;
+    margin: 0;
+  }
+
+
+  .movie {
+	width: 240px;
+	height: 100px;
+	margin: 5px;
+	background: tomato;
+}

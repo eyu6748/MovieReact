@@ -1,0 +1,18 @@
+.main {
+	display: flex;
+}
+
+.navigation, .movies {
+	height: 200px;
+}
+
+.navigation {
+	flex-basis: 20%;
+	min-width: 300px;
+	background: tomato;
+}
+
+.movies {
+	flex-basis: 80%;
+	background: royalblue;
+}
